@@ -1,0 +1,25 @@
+body
+{
+	background:url("Piano.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0; padding: 0;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+
+}
+p
+{
+	font-size: 90px;
+	text-align: center;
+	margin-top: 5px;
+	background: #804D15;
+	padding-bottom: 0px;
+  text-shadow: 2px 2px #550F00;
+  width:100%;
+}
